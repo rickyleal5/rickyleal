@@ -87,3 +87,7 @@ span.blockspam {
 .prettyPrint {
     display: none;
 }
+
+.highlight {
+    color: #FFFF00;
+}
