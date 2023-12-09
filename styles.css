@@ -1,6 +1,7 @@
 @media print {
     body * {
       color: #000000 !important;
+      font-size: 9px !important;
     }
     .prettyPrint {
         display: block !important;
@@ -90,4 +91,8 @@ span.blockspam {
 
 .highlight {
     color: #FFFF00;
+}
+
+.no-highlight {
+    color: #FFFFFF;
 }
